@@ -1,0 +1,13 @@
+.venv/
+# Ignore virtual environments and common binary artifacts
+.venv/
+**/.venv/
+__pycache__/
+*.so
+*.so.*
+*.pyc
+*.pyo
+*.pyd
+*.whl
+.env
+.env.*

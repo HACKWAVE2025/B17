@@ -1,0 +1,15 @@
+flask
+flask-cors
+requests
+google-generativeai
+python-dotenv
+pandas
+numpy
+matplotlib
+scikit-learn==1.5.2
+xgboost
+seaborn
+pillow
+opencv-python-headless
+tensorflow
+gunicorn
